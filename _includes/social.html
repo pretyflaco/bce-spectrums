@@ -1,0 +1,22 @@
+<ul class="social-media-list">
+  {%- if site.github_username -%}
+  <li class="social-item">
+    <strong>Github username:</strong> 
+    <a href="https://github.com/{{ site.github_username | escape }}">{{ site.github_username | escape }}</a>
+  </li>
+  {%- endif -%}
+  
+  {%- if site.twitter_username -%}
+  <li class="social-item">
+    <strong>Twitter username:</strong> 
+    <a href="https://twitter.com/{{ site.twitter_username | escape }}">{{ site.twitter_username | escape }}</a>
+  </li>
+  {%- endif -%}
+  
+  {%- if site.nostr_npub -%}
+  <li class="social-item">
+    <strong>Nostr npub:</strong> 
+    <span class="nostr-key">{{ site.nostr_npub | escape }}</span>
+  </li>
+  {%- endif -%}
+</ul>

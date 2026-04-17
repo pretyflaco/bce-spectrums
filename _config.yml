@@ -1,0 +1,45 @@
+# Site settings
+title: "Building a Bitcoin Circular Economy"
+description: "Five spectrums you have to navigate when choosing tools, wallets, and an approach for your Bitcoin circular economy"
+author: "pretyflaco"
+url: "https://pretyflaco.github.io"
+baseurl: "/bce-spectrums"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Permalink format
+permalink: /:title/
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name/
+
+# Social links
+github_username: pretyflaco
+twitter_username: _pretyflaco
+nostr_npub: npub1flac02t5hw6jljk8x7mec22uq37ert8d3y3mpwzcma726g5pz4lsmfzlk6
+
+# SEO settings
+lang: en_US
+
+# License information
+license:
+  name: "CC BY 4.0"
+  url: "https://creativecommons.org/licenses/by/4.0/"
+
+# Copyright
+copyright: "This work is licensed under CC BY 4.0"
