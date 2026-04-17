@@ -32,7 +32,7 @@ So what I want to lay out here are five spectrums that every circular economy le
 
 # 1. Custodial <> Self-Custodial
 
-I wrote a piece a few years ago called "The Bullish Case for Bitcoin Custodians." Not because I believe we should all entrust our Bitcoin to Wall Street or Michael Saylor or Jack Mallers -- or Blink, for that matter. I believe the opposite: it's an existential risk to Bitcoin if everybody uses custodial solutions. The Bitcoin network is healthy and the Bitcoin mission is secure when as many people as possible hold their own keys, run their own nodes, and validate their own transactions.
+I wrote a piece a few years ago called ["The Bullish Case for Bitcoin Custodians."](https://www.swanbitcoin.com/industry/the-bullish-case-for-bitcoin-custodians/) Not because I believe we should all entrust our Bitcoin to Wall Street or Michael Saylor or Jack Mallers -- or Blink, for that matter. I believe the opposite: it's an existential risk to Bitcoin if everybody uses custodial solutions. The Bitcoin network is healthy and the Bitcoin mission is secure when as many people as possible hold their own keys, run their own nodes, and validate their own transactions.
 
 But we face a dilemma. We also need Bitcoin to succeed as peer-to-peer electronic cash. If Bitcoin is only held in ETFs and on MicroStrategy's balance sheet, that's a systemic risk too. We need people actually using Bitcoin for payments, and that means we need to onboard millions of people who are not technical enough -- or confident enough -- to secure a cryptographic secret where losing it means losing everything.
 
