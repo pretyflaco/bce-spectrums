@@ -142,9 +142,9 @@ If there's one thing you take away from this: **the barrier to building payment 
 
 Join the conversation:
 
-- [Nostr](https://damus.io) *(link to be added after posting)*
-- [X / Twitter](https://x.com/_pretyflaco) *(link to be added after posting)*
-- [Stacker News](https://stacker.news) *(link to be added after posting)*
+- [Nostr](https://njump.to/nevent1qqsxlqgz500v29ljcs74pl5lww72lmd3hudyx7wqlwt6cwzvk4963rgpypmhxue69uhhyetvv9ujumn0v3jhyatwdejhyuewdejhgam0wf4j7q3qflac02t5hw6jljk8x7mec22uq37ert8d3y3mpwzcma726g5pz4lsxpqqqqqqzp3j5w9)
+- [X / Twitter](https://x.com/i/status/2045279231051956517)
+- [Stacker News](https://stacker.news/items/1473492)
 
 ---
 
